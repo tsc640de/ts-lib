@@ -5,7 +5,7 @@
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: rgba(0,0,0,.7);
+	background: rgba(0,0,0,.8);
 	z-index: 700;
 }
 .viewbox-body{
@@ -16,9 +16,9 @@
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
-	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
-	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
 	overflow: auto;
 }
 .viewbox-header{
